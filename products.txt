@@ -1,0 +1,7 @@
+Drinks;1525;chips;20.0;lagradost
+Books;0001;Fourth wing, RebeccaYarros;299.0;Romantasy
+Food;0002;Caffelatte;59.0;Kaffe med mjölk
+Books;0003;Once upon a broken heart, Stephanie Garber;299.0;Romantasy
+Books;0004;Twisted games;99.0;Romantik
+Drinks;005;fanta;10.0;dricka
+Books;0006;Bride;99.0;Ali Hazelwood
